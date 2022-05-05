@@ -3012,8 +3012,8 @@ let capt = `⭔ Title: ${judul}
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
-                                    id: 'sc'
+                                    displayText: 'HOLA',
+                                    id: 'emojimix 😎+😏'
                                 }
                             }]
                         hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, btn)
