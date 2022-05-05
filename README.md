@@ -19,7 +19,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 #### 🟣 ACTIVAR EN HEROKU
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Misaelsharkbot/GataBot-MD2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Misaelsharkbot/Hisoka-Morou)
 
 
 
